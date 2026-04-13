@@ -1,0 +1,10 @@
+{
+  "id": "u1",
+  "name": "Leandro",
+  "age": 28,
+  "weight": 82,
+  "height": 178,
+  "gender": "male",
+  "activityLevel": "moderate",
+  "goal": "lose_weight"
+}
